@@ -6,5 +6,9 @@
   "scripts": {
     "tsc": "tsc -p tsconfig.json"
   },
-  "gitHead": "aac09816f07efc1332c9f292c0f50ad78724c09d"
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "gitHead": "933b7f71bc062274aa91d3ff259c7548cb74faf0"
 }
