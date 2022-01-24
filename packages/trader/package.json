@@ -1,8 +1,7 @@
 {
   "name": "@gmg-libraries/trader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "./dist/index.js",
-  "license": "MIT",
   "scripts": {
     "tsc": "tsc -p tsconfig.json"
   },
@@ -10,5 +9,12 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "gitHead": "933b7f71bc062274aa91d3ff259c7548cb74faf0"
+  "homepage": "",
+  "license": "ISC",
+  "author": "Illia Suprun <isuprun208@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:enigm0x61/gmg-libraries.git"
+  },
+  "gitHead": "7a88364bc02bdc9f4a47a91ec1895346312aec7a"
 }
