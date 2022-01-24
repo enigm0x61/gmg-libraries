@@ -3,5 +3,5 @@ import { subtract } from './helpers/subtract'
 
 export {
   add,
-  subtract
+  // subtract
 }
