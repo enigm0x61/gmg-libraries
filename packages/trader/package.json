@@ -1,6 +1,6 @@
 {
   "name": "@gmg-libraries/trader",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "./dist/index.js",
   "scripts": {
     "tsc": "tsc -p tsconfig.json"
@@ -16,5 +16,5 @@
     "type": "git",
     "url": "git@github.com:enigm0x61/gmg-libraries.git"
   },
-  "gitHead": "3de6e36180afab0f8a217c0af8afc18f670c7f08"
+  "gitHead": "58a6934179315887c31e4c36082b6d2998895d01"
 }
