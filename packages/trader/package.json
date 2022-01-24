@@ -1,6 +1,6 @@
 {
   "name": "@gmg-libraries/trader",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "./dist/index.js",
   "scripts": {
     "tsc": "tsc -p tsconfig.json"
@@ -11,10 +11,10 @@
   },
   "homepage": "",
   "license": "ISC",
-  "author": "Illia Suprun <isuprun208@gmail.com>",
+  "author": "enigm0x61 <isuprun208@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git@github.com:enigm0x61/gmg-libraries.git"
   },
-  "gitHead": "58a6934179315887c31e4c36082b6d2998895d01"
+  "gitHead": "5748ee281dca9373f488dba31cca235dca0322eb"
 }
