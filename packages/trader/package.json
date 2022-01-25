@@ -1,9 +1,10 @@
 {
   "name": "@gmg-libraries/trader",
   "version": "1.0.8",
-  "main": "./dist/index.js",
+  "module": "./dist/index.js",
   "scripts": {
-    "tsc": "tsc -p tsconfig.json"
+    "tsc": "tsc -p tsconfig.json",
+    "watch": "tsc -w"
   },
   "publishConfig": {
     "access": "public",
