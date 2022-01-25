@@ -1,6 +1,6 @@
 {
   "name": "@gmg-libraries/trader",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "module": "./dist/index.js",
   "scripts": {
     "tsc": "tsc -p tsconfig.json",
