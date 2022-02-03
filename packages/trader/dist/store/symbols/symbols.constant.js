@@ -1,1 +1,0 @@
-export const SYMBOLS_SET_LIST = 'SYMBOLS:SET_LIST';

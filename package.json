@@ -17,6 +17,7 @@
     "dotenv": "^14.3.0",
     "lerna": "^4.0.0",
     "nodemon": "^2.0.15",
+    "parcel": "^2.2.1",
     "typescript": "^4.5.5"
   },
   "dependencies": {
@@ -32,6 +33,8 @@
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.6",
     "react-scripts": "^5.0.0",
-    "redux": "^4.1.2"
+    "redux": "^4.1.2",
+    "rxjs": "^7.5.2",
+    "socketcluster-client": "^16.0.4"
   }
 }

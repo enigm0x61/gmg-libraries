@@ -2,7 +2,12 @@ import React from 'react'
 
 import {SymbolsFactory} from './dist';
 
-SymbolsFactory.create();
+const tradeInstance = new Trader({
+  common: {
+
+  },
+  
+});
 
 
 const App = () => {

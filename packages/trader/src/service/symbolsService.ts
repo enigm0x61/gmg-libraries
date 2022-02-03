@@ -6,7 +6,7 @@ export class SymbolsService {
   constructor(symbols = [], config = {}) {
     this.api = new ApiQuotes(symbols, config)
 
-    this.api.getSymbols()
-    console.log(222);
+    // this.api.getSymbols()
+    // console.log(222);
   }
 }

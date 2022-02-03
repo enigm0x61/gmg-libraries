@@ -1,7 +1,7 @@
 {
-  "name": "@gmg-libraries/trader",
-  "version": "1.0.9",
-  "source": "src/index.ts",
+  "name": "@gmg-libraries/symbols",
+  "version": "1.0.0",
+  "source": "src/index.js",
   "main": "dist/main.js",
   "module": "dist/module.js",
   "scripts": {
@@ -19,8 +19,12 @@
     "type": "git",
     "url": "git@github.com:enigm0x61/gmg-libraries.git"
   },
-  "gitHead": "f89c2accc04887c5b12580e359aecb569923f5c6",
   "dependencies": {
+    "axios": "^0.25.0",
+    "lodash": "^4.17.21",
+    "query-string": "^7.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "rxjs": "^7.5.2",
     "socketcluster-client": "^16.0.4"
   }

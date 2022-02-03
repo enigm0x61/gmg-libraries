@@ -10,10 +10,14 @@ export class SymbolsFactory {
       throw new Error('instance not created');
     }
 
+
     return SymbolsFactory.instance;
   }
 
   static create() {
+
+    console.log(222);
+
     if (!SymbolsFactory.instance) {
       SymbolsFactory.instance = new SymbolsService();
     }
